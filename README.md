@@ -40,7 +40,7 @@ I implemented simple logging system. All errors and infos will be written to fil
 
 ## Preview
 
-![](https://github.com/Iroh-5/game_of_life/image.png)
+![](https://github.com/Iroh-5/game_of_life/blob/master/image.png)
 
 ## Dependecies
 All of the drawing to terminal is made vie ncurses, so before compiling you should run:
